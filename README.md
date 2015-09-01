@@ -3,6 +3,8 @@
 
 3dstakethewheel is a save injector from which you can install an OoT3D savefile and accompanying payload for regionFOUR and (someday) ninjhax2. regionFOUR is confirmed working on 9.9 JPN N3DS.
 
+My work is entirely superficial. Most of the work here is due to yellows8 on oot3dhax, and smealum for getting it working with ninjhax-type payloads and for the ironhax installer.
+
 ## Prerequisites
 * a 3DS
 * tubehax, at least, or some kind of working homebrew
